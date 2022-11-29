@@ -30,6 +30,6 @@ htmlcov/
 
 .github/**
 
-./dev-env/
-dev-env/
+./py37-venv/
+py37-venv/
 
